@@ -1,0 +1,17 @@
+{
+    "feature_names": [
+        "Trans Fat (g) ",
+        "Saturated Fat (g)",
+        " Sodium (mg)",
+        " Total Carbohydrates (g) ",
+        "Cholesterol (mg)",
+        " Dietary Fibre (g)",
+        " Sugars (g)",
+        " Protein (g) "
+    ],
+    "class_labels": [
+        "High",
+        "Low",
+        "Medium"
+    ]
+}
